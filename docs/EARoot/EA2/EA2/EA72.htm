@@ -1,0 +1,88 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Modelos de Casos de Uso</title>
+<link href="../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="PageBody">
+	
+<img src="EA73.png" usemap="#EA73" border="0" />
+
+<MAP NAME="EA73">
+<area shape="rect" coords="230,869,457,975" href="./EA11/EA320.htm" target="_self">
+<area shape="rect" coords="231,751,456,841" href="./EA10/EA312.htm" target="_self">
+<area shape="rect" coords="481,678,744,1024" href="./EA9/EA288.htm" target="_self">
+<area shape="rect" coords="10,669,209,1031" href="./EA8/EA263.htm" target="_self">
+<area shape="rect" coords="10,490,209,644" href="./EA7/EA251.htm" target="_self">
+<area shape="rect" coords="40,10,187,56" href="EA76.htm" target="_self">
+<area shape="rect" coords="227,126,456,344" href="./EA3/EA131.htm" target="_self">
+<area shape="rect" coords="227,383,460,729" href="./EA6/EA220.htm" target="_self">
+<area shape="rect" coords="481,443,744,629" href="./EA5/EA206.htm" target="_self">
+<area shape="rect" coords="40,66,602,104" href="EA75.htm" target="_self">
+<area shape="rect" coords="473,126,749,431" href="./EA4/EA180.htm" target="_self">
+<area shape="rect" coords="10,126,209,472" href="./EA2/EA106.htm" target="_self">
+</MAP>
+
+	<div class="ObjectTitle">Modelos de Casos de Uso : Use Case diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">7/3/2005 00:00:00</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">26/4/2020 00:53:16</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">Javier</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{EC511D3F-B438-4036-890E-86C4498008BC}</td>
+		</tr>
+	</table>
+	
+</div>
+ 
+</body>
+</html>

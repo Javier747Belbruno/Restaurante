@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.2.2.11:1", "", "Gestión de Estadísticas e Informes", "EARoot/EA2/EA2/EA11/EA320.htm", "180.png", "1151", "0", "", "Use Case diagram0","{9F88AF73-312B-4901-8AE4-29BED4FFEAAD}");
+tocTab[tocTab.length] = new Array("0.2.2.11:2", "", "118.Generar Reporte de Tiempos en Pedidos <br />", "EARoot/EA2/EA2/EA11/EA323.htm", "7.png", "E11218", "0", "", "UseCase0","{6C6B58B0-53E6-42ca-823B-B9821A37EA71}");
+tocTab[tocTab.length] = new Array("0.2.2.11:3", "", "119.Generar Estadística de Ocupación de Mesas <br />", "EARoot/EA2/EA2/EA11/EA324.htm", "7.png", "E11219", "0", "", "UseCase0","{14F2CD04-5489-41db-8204-A340A6433786}");
+tocTab[tocTab.length] = new Array("0.2.2.11:4", "", "120.Generar Reporte de Ventas por Período <br />", "EARoot/EA2/EA2/EA11/EA325.htm", "7.png", "E11220", "0", "", "UseCase0","{7C075D2D-D3CA-491e-B839-16F7C907CD76}");
+tocTab[tocTab.length] = new Array("0.2.2.11:5", "", "121.Generar Informe de Productos más Pedidos  <br />", "EARoot/EA2/EA2/EA11/EA326.htm", "7.png", "E11221", "0", "", "UseCase0","{D6152E4D-75B0-42cb-95C6-F4CEF8CA314A}");
+tocTab[tocTab.length] = new Array("0.2.2.11:6", "", "122.Generar Estadística de Reservas <br />", "EARoot/EA2/EA2/EA11/EA327.htm", "7.png", "E11222", "0", "", "UseCase0","{A00EFF8A-1761-48de-A85B-55183D9262CA}");

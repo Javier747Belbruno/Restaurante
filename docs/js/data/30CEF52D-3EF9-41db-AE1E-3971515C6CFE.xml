@@ -1,0 +1,11 @@
+tocTab[tocTab.length] = new Array("0.2.2.5:1", "", "Administración de Personal", "EARoot/EA2/EA2/EA5/EA206.htm", "180.png", "1076", "0", "", "Use Case diagram0","{B85851C2-8DFA-41d9-B559-FAC924291FEF}");
+tocTab[tocTab.length] = new Array("0.2.2.5:2", "", "17.Registrar empleado ", "EARoot/EA2/EA2/EA5/EA209.htm", "7.png", "E11117", "0", "", "UseCase0","{8D066B9E-6B3A-4b18-8F28-D8974BE4238F}");
+tocTab[tocTab.length] = new Array("0.2.2.5:3", "", "18.Modificar empleado ", "EARoot/EA2/EA2/EA5/EA210.htm", "7.png", "E11118", "0", "", "UseCase0","{16A87B51-BFE0-410f-801D-112EA5E1412A}");
+tocTab[tocTab.length] = new Array("0.2.2.5:4", "", "19.Consultar empleado ", "EARoot/EA2/EA2/EA5/EA211.htm", "7.png", "E11119", "0", "", "UseCase0","{1FA7E460-F969-45b2-9CDA-AB9380920FAC}");
+tocTab[tocTab.length] = new Array("0.2.2.5:5", "", "20.Eliminar empleado ", "EARoot/EA2/EA2/EA5/EA212.htm", "7.png", "E11120", "0", "", "UseCase0","{3941797A-4CE7-43c7-B65A-6B8D3D942D49}");
+tocTab[tocTab.length] = new Array("0.2.2.5:6", "", "21.Registrar cargo ", "EARoot/EA2/EA2/EA5/EA213.htm", "7.png", "E11121", "0", "", "UseCase0","{635E4C7E-4036-45ae-B242-6F173D47BBBD}");
+tocTab[tocTab.length] = new Array("0.2.2.5:7", "", "22.Modificar cargo", "EARoot/EA2/EA2/EA5/EA214.htm", "7.png", "E11122", "0", "", "UseCase0","{3A4C06B2-6EC2-416a-9100-08E7696F356E}");
+tocTab[tocTab.length] = new Array("0.2.2.5:8", "", "23.Consultar cargo", "EARoot/EA2/EA2/EA5/EA215.htm", "7.png", "E11123", "0", "", "UseCase0","{2FA68970-F4A4-4805-907D-65911196EFB3}");
+tocTab[tocTab.length] = new Array("0.2.2.5:9", "", "24.Eliminar cargo", "EARoot/EA2/EA2/EA5/EA216.htm", "7.png", "E11124", "0", "", "UseCase0","{3CF02E99-8762-4236-8AB9-B217FE4E4AB2}");
+tocTab[tocTab.length] = new Array("0.2.2.5:10", "", "25.Asignar Mesas a Mozo <br />", "EARoot/EA2/EA2/EA5/EA217.htm", "7.png", "E11125", "0", "", "UseCase0","{4600C295-E707-4ebe-A3BF-C85C56A59362}");
+tocTab[tocTab.length] = new Array("0.2.2.5:11", "", "26.Eliminar Asignación de Mesas a Mozo <br />", "EARoot/EA2/EA2/EA5/EA218.htm", "7.png", "E11126", "0", "", "UseCase0","{D1B66764-2182-4f1f-9609-7BE3DCCC6C88}");

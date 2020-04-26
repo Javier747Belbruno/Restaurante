@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0.2.2.7:1", "", "Gestión de Reservas", "EARoot/EA2/EA2/EA7/EA251.htm", "180.png", "1147", "0", "", "Use Case diagram0","{8776EE3C-A35B-462d-905A-F1E8CE96CF24}");
+tocTab[tocTab.length] = new Array("0.2.2.7:2", "", "51.Confirmar Reserva <br />", "EARoot/EA2/EA2/EA7/EA254.htm", "7.png", "E11156", "0", "", "UseCase0","{8F4BF543-40A4-42a6-9744-3B0963BBCE56}");
+tocTab[tocTab.length] = new Array("0.2.2.7:3", "", "52.Enviar Recordatorio de Reserva <br />", "EARoot/EA2/EA2/EA7/EA255.htm", "7.png", "E11155", "0", "", "UseCase0","{42704ECE-5E71-4f87-804A-56B40D044D97}");
+tocTab[tocTab.length] = new Array("0.2.2.7:4", "", "53.Registrar demora en Reserva <br />", "EARoot/EA2/EA2/EA7/EA256.htm", "7.png", "E11154", "0", "", "UseCase0","{10AAC11A-D5E6-4913-AC04-FB124755E7B3}");
+tocTab[tocTab.length] = new Array("0.2.2.7:5", "", "54.Registrar Reserva <br />", "EARoot/EA2/EA2/EA7/EA257.htm", "7.png", "E11149", "0", "", "UseCase0","{B245CCEE-43FB-40ec-A35B-A62F8687BFB7}");
+tocTab[tocTab.length] = new Array("0.2.2.7:6", "", "55.Modificar Reserva <br />", "EARoot/EA2/EA2/EA7/EA258.htm", "7.png", "E11150", "0", "", "UseCase0","{68189094-0FB7-49de-8EEE-394929252B8D}");
+tocTab[tocTab.length] = new Array("0.2.2.7:7", "", "56.Cancelar Reserva <br />", "EARoot/EA2/EA2/EA7/EA259.htm", "7.png", "E11151", "0", "", "UseCase0","{87CA0A07-EDC6-45cd-8F7F-B1F5C36D4303}");
+tocTab[tocTab.length] = new Array("0.2.2.7:8", "", "57.Consultar Reserva ", "EARoot/EA2/EA2/EA7/EA260.htm", "7.png", "E11152", "0", "", "UseCase0","{D0A27ACB-838E-490c-95CB-FEF96E6F523C}");
+tocTab[tocTab.length] = new Array("0.2.2.7:9", "", "58.Anular Reserva ", "EARoot/EA2/EA2/EA7/EA261.htm", "7.png", "E11153", "0", "", "UseCase0","{EF461211-E54D-4045-8B5A-C7835620A504}");

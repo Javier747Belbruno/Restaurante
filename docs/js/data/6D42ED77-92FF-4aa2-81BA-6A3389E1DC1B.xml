@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.3.1.1.3.1:1", "", "brokered", "EARoot/EA3/EA1/EA1/EA3/EA1/EA468.htm", "182.png", "1095", "0", "", "CompositeStructure diagram0","{2908F34A-AD11-402e-BB3E-3EF5326D9954}");
+tocTab[tocTab.length] = new Array("0.3.1.1.3.1:2", "", "BrokeredSale", "EARoot/EA3/EA1/EA1/EA3/EA1/EA472.htm", "60.png", "E10633", "0", "", "Collaboration0","{DEC980A6-2246-4db8-B430-E4EB8B59759B}");
+tocTab[tocTab.length] = new Array("0.3.1.1.3.1:3", "", "Broker", "EARoot/EA3/EA1/EA1/EA3/EA1/EA474.htm", "25.png", "E10637", "E10633", "", "Object0","{42678F33-2CEB-4c1f-BCB8-B1899B520C41}");
+tocTab[tocTab.length] = new Array("0.3.1.1.3.1:4", "", "Consumer", "EARoot/EA3/EA1/EA1/EA3/EA1/EA475.htm", "25.png", "E10638", "E10633", "", "Object0","{3B18EC37-1DE7-43ce-86C0-022C50294A0B}");
+tocTab[tocTab.length] = new Array("0.3.1.1.3.1:5", "", "Publisher", "EARoot/EA3/EA1/EA1/EA3/EA1/EA476.htm", "25.png", "E10635", "E10633", "", "Object0","{47EDB31B-4892-4459-9E20-F0D35CFAB456}");
+tocTab[tocTab.length] = new Array("0.3.1.1.3.1:6", "", "Retail: Sale", "EARoot/EA3/EA1/EA1/EA3/EA1/EA477.htm", "60.png", "E10636", "E10633", "", "CollaborationOccurrence0","{F1201B1D-A875-4f94-8617-81D520A9E5BB}");
+tocTab[tocTab.length] = new Array("0.3.1.1.3.1:7", "", "WholeSale: Sale", "EARoot/EA3/EA1/EA1/EA3/EA1/EA478.htm", "60.png", "E10634", "E10633", "", "CollaborationOccurrence0","{2F8D9E2C-05BA-4dd1-B4EE-7074B28D7A9F}");

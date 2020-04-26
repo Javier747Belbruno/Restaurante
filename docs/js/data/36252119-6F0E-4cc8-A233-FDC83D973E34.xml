@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.3.1.2.2.2:1", "", "Fragment", "EARoot/EA3/EA1/EA2/EA2/EA2/EA635.htm", "185.png", "1102", "0", "", "Sequence diagram0","{5A5A6904-3A8F-4bfd-B236-7886D4B5C4DA}");
+tocTab[tocTab.length] = new Array("0.3.1.2.2.2:2", "", "DataControl", "EARoot/EA3/EA1/EA2/EA2/EA2/EA639.htm", "57.png", "E10700", "0", "", "Sequence0","{91BD9BB6-05E8-44e2-A25E-28B79E84A4F6}");
+tocTab[tocTab.length] = new Array("0.3.1.2.2.2:3", "", "DataSource", "EARoot/EA3/EA1/EA2/EA2/EA2/EA640.htm", "57.png", "E10701", "0", "", "Sequence0","{BC48F864-ED4E-42b2-9B1C-80A772234F52}");
+tocTab[tocTab.length] = new Array("0.3.1.2.2.2:4", "", "n", "EARoot/EA3/EA1/EA2/EA2/EA2/EA641.htm", "101.png", "E10699", "0", "", "InteractionFragment0","{5BC5523D-D4ED-43fc-95CD-C34119433BBE}");
+tocTab[tocTab.length] = new Array("0.3.1.2.2.2:5", "", "UserInterface", "EARoot/EA3/EA1/EA2/EA2/EA2/EA642.htm", "57.png", "E10702", "0", "", "Sequence0","{3B1A072D-3190-4280-8871-75020759CF7A}");

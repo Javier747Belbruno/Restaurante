@@ -1,0 +1,17 @@
+tocTab[tocTab.length] = new Array("0.3.1.2.4.4:3", "", "Sell Books", "EARoot/EA3/EA1/EA2/EA4/EA4/EA856.htm", "180.png", "1126", "0", "", "Use Case diagram0","{97F6F4BA-CC53-461e-985B-648E2CEAEF9F}");
+tocTab[tocTab.length] = new Array("0.3.1.2.4.4:4", "", "Add To Shopping Basket", "EARoot/EA3/EA1/EA2/EA4/EA4/EA861.htm", "7.png", "E10829", "0", "", "UseCase0","{BEF5B385-3FFD-4d82-B9B7-AE43AAE21E82}");
+tocTab[tocTab.length] = new Array("0.3.1.2.4.4:5", "", "Express Checkout", "EARoot/EA3/EA1/EA2/EA4/EA4/EA862.htm", "7.png", "E10831", "0", "", "UseCase0","{DC69D6ED-55C6-4c68-BB8A-CE11F7331606}");
+tocTab[tocTab.length] = new Array("0.3.1.2.4.4:6", "", "Go To Checkout", "EARoot/EA3/EA1/EA2/EA4/EA4/EA863.htm", "7.png", "E10833", "0", "", "UseCase0","{8E9630CD-42C3-45f2-B910-A90AFDAA03B4}");
+tocTab[tocTab.length] = new Array("0.3.1.2.4.4:7", "", "Remove From Shopping Basket", "EARoot/EA3/EA1/EA2/EA4/EA4/EA864.htm", "7.png", "E10834", "0", "", "UseCase0","{DE3BFEAC-DF37-4e03-B54D-81F4364AC25C}");
+tocTab[tocTab.length] = new Array("0.3.1.2.4.4:8", "", "Search for Books", "EARoot/EA3/EA1/EA2/EA4/EA4/EA865.htm", "7.png", "E10835", "0", "", "UseCase0","{4562D645-6D21-4f35-A7B0-70F7C34B9B5C}");
+tocTab[tocTab.length] = new Array("0.3.1.2.4.4:9", "", "View Shopping Basket", "EARoot/EA3/EA1/EA2/EA4/EA4/EA866.htm", "7.png", "E10832", "0", "", "UseCase0","{1ECB0028-4802-4ebd-815F-5FEEAB809686}");
+tocTab[tocTab.length] = new Array("0.3.1.2.4.4:1", "", "Add To Shopping Cart", "EARoot/EA3/EA1/EA2/EA4/EA4/EA852.htm", "185.png", "1128", "E10829", "", "Sequence diagram0","{3F797BBA-7CC2-4df8-A518-1D18399A370D}");
+tocTab[tocTab.length] = new Array("0.3.1.2.4.4:2", "", "Add To Shopping Cart", "EARoot/EA3/EA1/EA2/EA4/EA4/EA854.htm", "184.png", "1127", "E10829", "", "Collaboration diagram0","{B1F405E6-2048-43bb-979E-FE7B16AE9893}");
+tocTab[tocTab.length] = new Array("0.3.1.2.4.4:10", "", "«entity» : ShoppingBasket", "EARoot/EA3/EA1/EA2/EA4/EA4/EA867.htm", "25.png", "E10842", "E10829", "", "Object0","{3DB5AB81-93E8-485b-85C2-16D725F8E1CC}");
+tocTab[tocTab.length] = new Array("0.3.1.2.4.4:11", "", "«entity» ", "EARoot/EA3/EA1/EA2/EA4/EA4/EA868.htm", "25.png", "E10839", "E10829", "", "Object0","{AA0C030B-39D5-4902-BD05-EC11D010B03E}");
+tocTab[tocTab.length] = new Array("0.3.1.2.4.4:12", "", "«actor» : Client", "EARoot/EA3/EA1/EA2/EA4/EA4/EA869.htm", "25.png", "E10843", "E10829", "", "Object0","{A3FBF311-069D-4d25-9A6B-1BAD932FD2EA}");
+tocTab[tocTab.length] = new Array("0.3.1.2.4.4:13", "", "«control» AddToBasket", "EARoot/EA3/EA1/EA2/EA4/EA4/EA870.htm", "25.png", "E10837", "E10829", "", "Object0","{AC1DFA4B-C5A8-4af6-9875-27ADD95EE831}");
+tocTab[tocTab.length] = new Array("0.3.1.2.4.4:14", "", "«boundary» ItemsPage", "EARoot/EA3/EA1/EA2/EA4/EA4/EA871.htm", "25.png", "E10838", "E10829", "", "Object0","{54B89CA4-4BE2-4b2c-8429-5C40D5C5B31D}");
+tocTab[tocTab.length] = new Array("0.3.1.2.4.4:15", "", "«entity» Object1", "EARoot/EA3/EA1/EA2/EA4/EA4/EA872.htm", "25.png", "E10840", "E10829", "", "Object0","{A6174AF2-25A7-418e-ACE4-F3F656E657B3}");
+tocTab[tocTab.length] = new Array("0.3.1.2.4.4:16", "", "«control» RemoveFromBasket", "EARoot/EA3/EA1/EA2/EA4/EA4/EA873.htm", "25.png", "E10844", "E10829", "", "Object0","{C8B02BA5-6D5A-4486-819A-3E8C656EAEF3}");
+tocTab[tocTab.length] = new Array("0.3.1.2.4.4:17", "", "«control» View Basket", "EARoot/EA3/EA1/EA2/EA4/EA4/EA874.htm", "25.png", "E10841", "E10829", "", "Object0","{88ACDE9C-466A-415b-9D9F-24977873099A}");

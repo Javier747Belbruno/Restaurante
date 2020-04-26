@@ -1,0 +1,15 @@
+tocTab[tocTab.length] = new Array("0.3.1.2:1", "", "Activity Diagrams", "EARoot/EA3/EA1/EA2/EA558.htm", "188.png", "1136", "0", "", "Custom diagram0","{B7E91D5F-DC57-4055-8275-5EF1D2685C7A}");
+tocTab[tocTab.length] = new Array("0.3.1.2:2", "", "Communication Diagrams", "EARoot/EA3/EA1/EA2/EA560.htm", "188.png", "1137", "0", "", "Custom diagram0","{684582B6-41DF-464a-996A-A0C658C65FFE}");
+tocTab[tocTab.length] = new Array("0.3.1.2:3", "", "Interaction Overview Diagrams", "EARoot/EA3/EA1/EA2/EA562.htm", "188.png", "1138", "0", "", "Custom diagram0","{43FB0001-640B-4e31-945F-CF0301848A65}");
+tocTab[tocTab.length] = new Array("0.3.1.2:4", "", "Sequence Diagrams", "EARoot/EA3/EA1/EA2/EA564.htm", "188.png", "1135", "0", "", "Custom diagram0","{BEA6FB4D-63E4-4d6f-943B-291CCF7D711F}");
+tocTab[tocTab.length] = new Array("0.3.1.2:5", "", "State Machine Diagrams", "EARoot/EA3/EA1/EA2/EA566.htm", "176.png", "1100", "0", "", "Package diagram0","{329ABF65-119D-4862-B5E0-F19A18A50146}");
+tocTab[tocTab.length] = new Array("0.3.1.2:6", "", "Timing Diagrams", "EARoot/EA3/EA1/EA2/EA568.htm", "188.png", "1139", "0", "", "Custom diagram0","{59798440-86A5-4d56-AF82-C5565F3066B9}");
+tocTab[tocTab.length] = new Array("0.3.1.2:7", "", "Use Case Diagrams", "EARoot/EA3/EA1/EA2/EA570.htm", "180.png", "1099", "0", "", "Use Case diagram0","{D5A3A20D-9C2C-4a38-909B-4B92784CBB99}");
+tocTab[tocTab.length] = new Array("0.3.1.2:8", "", "Create Account", "EARoot/EA3/EA1/EA2/EA574.htm", "21.png", "E10939", "0", "", "Activity0","{9C30EB93-CFC7-43a4-804B-E5B5738399B3}");
+tocTab[tocTab.length] = new Array("0.3.1.2:9", "", "Credit Card Problem", "EARoot/EA3/EA1/EA2/EA575.htm", "21.png", "E10938", "0", "", "Activity0","{95642EB2-56A6-487c-99B9-18C7E55885CB}");
+tocTab[tocTab.length] = new Array("0.3.1.2:10", "", "Customer Process", "EARoot/EA3/EA1/EA2/EA576.htm", "21.png", "E10936", "0", "", "Activity0","{B0C54DB0-F46C-4eae-A534-96EB605B0545}");
+tocTab[tocTab.length] = new Array("0.3.1.2:11", "", "Customer Process", "EARoot/EA3/EA1/EA2/EA577.htm", "21.png", "E10937", "0", "", "Activity0","{05967171-ACDD-40a3-B6D2-4E1B729BD854}");
+tocTab[tocTab.length] = new Array("0.3.1.2.1", "", "Navigation Links", "EARoot/EA3/EA1/EA2/EA1/EA596.htm", "4.png", "", "", "{9D8B745A-B542-41be-A894-3CCCFE3E614F}", "Package");
+tocTab[tocTab.length] = new Array("0.3.1.2.2", "1", "Interactions", "EARoot/EA3/EA1/EA2/EA2/EA617.htm", "4.png", "", "", "{2A620EB3-44D7-4210-BF17-3FFB128966AA}", "Package");
+tocTab[tocTab.length] = new Array("0.3.1.2.3", "1", "Timing", "EARoot/EA3/EA1/EA2/EA3/EA649.htm", "4.png", "", "", "{361297B6-67D2-47b5-8B7A-ABEA0880E91F}", "Package");
+tocTab[tocTab.length] = new Array("0.3.1.2.4", "1", "Use Case Model", "EARoot/EA3/EA1/EA2/EA4/EA657.htm", "4.png", "", "", "{1F1F3299-FCB7-45d0-A823-E51A0A358B6E}", "Package");

@@ -1,0 +1,13 @@
+tocTab[tocTab.length] = new Array("0.2.2.3:1", "", "Gestión de Pedido ", "EARoot/EA2/EA2/EA3/EA131.htm", "180.png", "1059", "0", "", "Use Case diagram0","{20753545-453B-45a1-8771-8CE22B2C39C8}");
+tocTab[tocTab.length] = new Array("0.2.2.3:2", "", "01.Registrar Pedido de Mesa", "EARoot/EA2/EA2/EA3/EA134.htm", "7.png", "E11079", "0", "", "UseCase0","{A9334CF3-6F4A-4c2f-B7B0-3E7A0F7618BF}");
+tocTab[tocTab.length] = new Array("0.2.2.3:3", "", "02.Modificar Pedido de Mesa", "EARoot/EA2/EA2/EA3/EA135.htm", "7.png", "E11081", "0", "", "UseCase0","{49D6E9D2-96A5-4b67-B7A3-E0CC8F41C53E}");
+tocTab[tocTab.length] = new Array("0.2.2.3:4", "", "03.Consultar Pedido de Mesa", "EARoot/EA2/EA2/EA3/EA136.htm", "7.png", "E11080", "0", "", "UseCase0","{01B88831-E99D-42af-82D0-1DFC01343542}");
+tocTab[tocTab.length] = new Array("0.2.2.3:5", "", "05.Abrir Mesa ", "EARoot/EA2/EA2/EA3/EA137.htm", "7.png", "E11082", "0", "", "UseCase0","{5116B378-5509-4b17-8CE4-83FCC479B157}");
+tocTab[tocTab.length] = new Array("0.2.2.3:6", "", "06.Consultar Productos listos para servir <br />", "EARoot/EA2/EA2/EA3/EA138.htm", "7.png", "E11083", "0", "", "UseCase0","{B4CC99E0-939A-4f80-9227-6361BF1435B1}");
+tocTab[tocTab.length] = new Array("0.2.2.3:7", "", "08.Unir Mesas<br />", "EARoot/EA2/EA2/EA3/EA139.htm", "7.png", "E11084", "0", "", "UseCase0","{7E7746C1-C8C9-4ef8-A6B4-7979820BA0ED}");
+tocTab[tocTab.length] = new Array("0.2.2.3:8", "", "09.Derivar Pedido a otra Mesa <br />", "EARoot/EA2/EA2/EA3/EA140.htm", "7.png", "E11086", "0", "", "UseCase0","{AD06FD04-59EB-41fe-A977-49FB32FE0761}");
+tocTab[tocTab.length] = new Array("0.2.2.3:9", "", "10.Cerrar Mesa <br />", "EARoot/EA2/EA2/EA3/EA141.htm", "7.png", "E11085", "0", "", "UseCase0","{F335E1F1-3838-4a5e-907E-4EE0ECA4E683}");
+tocTab[tocTab.length] = new Array("0.2.2.3:10", "", "129.Cancelar Pedido <br /> <br />", "EARoot/EA2/EA2/EA3/EA142.htm", "7.png", "E11091", "0", "", "UseCase0","{F482181C-AA1E-4709-B90C-D08BD8AA303C}");
+tocTab[tocTab.length] = new Array("0.2.2.3:11", "", "130.Registrar Entrega de Productos en Mesa <br />", "EARoot/EA2/EA2/EA3/EA143.htm", "7.png", "E11092", "0", "", "UseCase0","{06759256-8588-43ce-AFD7-50976F45E25A}");
+tocTab[tocTab.length] = new Array("0.2.2.3:12", "", "131.Iniciar preparación de pedido <br />", "EARoot/EA2/EA2/EA3/EA144.htm", "7.png", "E11093", "0", "", "UseCase0","{C91FDFE0-A724-4d1e-933E-8B2F766A019C}");
+tocTab[tocTab.length] = new Array("0.2.2.3:13", "", "132.Finalizar preparación de pedido <br />", "EARoot/EA2/EA2/EA3/EA145.htm", "7.png", "E11094", "0", "", "UseCase0","{9329F078-CE7F-49e4-BDCF-71F6137A0323}");

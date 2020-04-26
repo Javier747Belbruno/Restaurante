@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.2.2.10:1", "", "Administración de Clientes", "EARoot/EA2/EA2/EA10/EA312.htm", "180.png", "1150", "0", "", "Use Case diagram0","{A7FCB15C-A753-40fe-9D6F-91A324E9330A}");
+tocTab[tocTab.length] = new Array("0.2.2.10:2", "", "111.Registrar Cliente ", "EARoot/EA2/EA2/EA10/EA315.htm", "7.png", "E11212", "0", "", "UseCase0","{0013EBE3-5825-4386-952F-61A8F8FA4C9F}");
+tocTab[tocTab.length] = new Array("0.2.2.10:3", "", "112.Modificar Cliente ", "EARoot/EA2/EA2/EA10/EA316.htm", "7.png", "E11213", "0", "", "UseCase0","{EC7065AA-A441-4e3c-9C7E-ACE17C6C36AD}");
+tocTab[tocTab.length] = new Array("0.2.2.10:4", "", "113.Consultar Cliente", "EARoot/EA2/EA2/EA10/EA317.htm", "7.png", "E11214", "0", "", "UseCase0","{65A62B2F-8102-4645-A882-B5287B270816}");
+tocTab[tocTab.length] = new Array("0.2.2.10:5", "", "114.Eliminar Cliente ", "EARoot/EA2/EA2/EA10/EA318.htm", "7.png", "E11215", "0", "", "UseCase0","{7EBC8A6B-0EC2-4dd2-94E2-BA1BBCD5D6A2}");

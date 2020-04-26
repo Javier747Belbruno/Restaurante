@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.2.3.1:1", "", "Modelo de Reglas de Negocio", "EARoot/EA2/EA3/EA1/EA336.htm", "188.png", "1055", "0", "", "Custom diagram0","{8339497D-0048-4bf7-8764-26B6BCA01A4A}");
+tocTab[tocTab.length] = new Array("0.2.3.1.1", "1", "Reglas del Negocio", "EARoot/EA2/EA3/EA1/EA1/EA343.htm", "4.png", "", "", "{5A226C0C-2477-4517-94AB-0415CA0CE769}", "Package");

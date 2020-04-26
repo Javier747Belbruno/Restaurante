@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.3.1.1", "1", "UML Structural Diagrams", "EARoot/EA3/EA1/EA1/EA421.htm", "4.png", "", "", "{295D1DBD-399B-4b71-9B39-876625689EEA}", "Package");
+tocTab[tocTab.length] = new Array("0.3.1.2", "1", "UML Behavioral Diagrams", "EARoot/EA3/EA1/EA2/EA572.htm", "4.png", "", "", "{A44508C0-6733-4a2b-B684-F579CC67F25F}", "Package");

@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.1", "1", "Arquitectura", "EARoot/EA1/EA3.htm", "34.png", "", "", "{6D1A7976-9B3D-403a-BA26-B7975BB78C1A}", "Package");
+tocTab[tocTab.length] = new Array("0.2", "1", "Modelo de Requerimientos", "EARoot/EA2/EA66.htm", "29.png", "", "", "{0324396E-4B9E-47ae-937C-CF84B3FE9692}", "Package");
+tocTab[tocTab.length] = new Array("0.3", "1", "Basics", "EARoot/EA3/EA405.htm", "31.png", "", "", "{BC178314-775C-407c-AD87-CB94B1F72AF8}", "Package");
